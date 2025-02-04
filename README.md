@@ -1,3 +1,6 @@
+[![Python application test with Github Actions](https://github.com/wiemSghaier1/udacityProject2/actions/workflows/pythonapp.yml/badge.svg)](https://github.com/wiemSghaier1/udacityProject2/actions/workflows/pythonapp.yml)
+
+
 # Overview
 
 <TODO: complete this with an overview of your project>
