@@ -118,6 +118,8 @@ Once deployed, open the displayed URL in your browser to see the running Python 
 2. Perform all necessary configurations inside the VM to ensure the agent runs correctly.
 
 ![agentpool](https://github.com/user-attachments/assets/4b49c23b-5ee2-4cd8-9daf-707433cd9200)
+
+
 #### Create Pipeline:
 - In the YAML file, define the pipeline environment, stages, jobs, tasks, build agent, and other configurations to build the code from GitHub and deploy it to Azure services.
 
@@ -130,11 +132,9 @@ Once deployed, open the displayed URL in your browser to see the running Python 
 
 ## Successful Prediction from Deployed Flask App in Azure Cloud Shell
 
-Use this file as a template for the deployed prediction.
-
-### Run Command
 ```bash
 bash make_predict_azure_app.sh
+```
 ![predection](https://github.com/user-attachments/assets/5df551e3-670b-476f-815e-efc6a7925782)
 
 Output of streamed log files from deployed application
