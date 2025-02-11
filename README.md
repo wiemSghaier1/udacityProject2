@@ -8,8 +8,8 @@
 ## Project Plan
 <TODO: Project Plan
 
-* A link to a Trello board for the project
-* A link to a spreadsheet that includes the original and final project plan>
+* [A link to a Trello board for the project](https://trello.com/b/3O0o0gen/udacity)
+* [A link to a spreadsheet that includes the original and final project plan]
 
 ## Instructions
 
@@ -49,6 +49,6 @@ Port: 443
 
 ## Demo 
 
-<TODO: Add link Screencast on YouTube>
+[demo link Screencast on YouTube](https://youtu.be/2vv5tJ105Gs)
 
 
