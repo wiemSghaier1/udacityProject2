@@ -9,7 +9,7 @@
 <TODO: Project Plan
 
 * [A link to a Trello board for the project](https://trello.com/b/3O0o0gen/udacity)
-* [A link to a spreadsheet that includes the original and final project plan]
+* [A link to a spreadsheet that includes the original and final project plan](https://github.com/wiemSghaier1/udacityProject2/blob/main/project-management-template(Sheet1).csv)
 
 ## Instructions
 
