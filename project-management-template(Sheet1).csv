@@ -1,0 +1,29 @@
+Yearly plan,,,,
+,,,,
+,,,,
+Year,Major Objective,,,
+2025,Strengthen Cybersecurity for the organizations IT infrastructure ,,,
+,,,,
+,,,,
+Q1,Assess current security risks and compliance gaps,,,
+Q2,Implement security policies and tools,,,
+Q3,Conduct penetration testing and vulnerability assessmentsrate application and check performance,,,
+Q4,Continuous monitoring and improvement,,,
+,,,,
+,,,,
+Week,component,Deliverable,Estimated Time(Hours),Proposed difficulty  (1-5)
+10/1/2025,Security Risk Assessment,Identify vulnerabilities in existing infrastructure,10,3
+10/8/2025,Compliance Audit,"Ensure compliance with industry standards (ISO, NIST)",8,2
+10/15/2025,Firewall & Network Security,Configure firewalls and IDS/IPS systems,12,4
+10/22/2025,Endpoint Protection,Deploy endpoint security solutions,10,4
+10/29/2025,Cloud Security Enhancement,Implement cloud access controls and security policies,10,4
+11/5/2025,Multi-Factor Authentication,Enforce MFA across all critical applications,15,5
+11/12/2025,Security Awareness Training,Train employees on cybersecurity best practices,20,5
+11/19/2025,Penetration Testing,Conduct ethical hacking and security testing,8,3
+11/26/2025,Incident Response Plan,Develop and document an incident response plan,10,3
+12/3/2025,Monitoring & Logging,Implement SIEM and real-time threat monitoring,7,2
+12/10/2025,Documentation,Maintain security documentation and policies,6,2
+12/17/2025,Security Review,Evaluate security improvements and finalize reports,6,2
+,Goals,Goals,,
+,,,,
+,Enhancing security,,,
